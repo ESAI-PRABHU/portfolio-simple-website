@@ -15,7 +15,7 @@ HTML5
 
 CSS3 (No frameworks or libraries used)
 
-## how to use
+how to use
 
 You can access my portfolio  website by visiting [link] feel free to explore the content and get in touch!
 
